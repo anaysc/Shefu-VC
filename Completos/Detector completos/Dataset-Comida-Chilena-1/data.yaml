@@ -1,0 +1,12 @@
+names:
+- Completos
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: dataset-comida-chilena-8wtna
+  url: https://universe.roboflow.com/anays/dataset-comida-chilena-8wtna/dataset/1
+  version: 1
+  workspace: anays
+test: ../test/images
+train: train/images
+val: valid/images

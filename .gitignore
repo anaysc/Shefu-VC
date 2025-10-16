@@ -1,0 +1,6 @@
+Completos/Detector completos/shefu_yolo2/
+# Entornos de Python
+*/venv/
+*/env/
+*/.venv/
+*/.env/
