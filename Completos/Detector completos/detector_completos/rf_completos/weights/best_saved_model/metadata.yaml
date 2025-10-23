@@ -1,0 +1,22 @@
+description: Ultralytics best model trained on c:\Users\anays\OneDrive\Escritorio\SHEFU
+  - ENTREGABLE VC\Completos\Detector completos\Dataset-Comida-Chilena-1\data.yaml
+author: Ultralytics
+date: '2025-10-22T22:27:07.346623'
+version: 8.3.220
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 320
+- 320
+names:
+  0: Completos
+args:
+  batch: 1
+  fraction: 1.0
+  half: false
+  int8: false
+  nms: false
+channels: 3
